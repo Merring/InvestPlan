@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+#faq{margin-top: -60px;}
+#faq .wrap{width: 1000px; padding: 0 10px; margin: 0 auto;}
+#faq .wrap .title{height: 60px; text-align: center;}
+#faq .wrap .title h2{font-size: 24px; font-weight: normal; color: #5c5c5c; vertical-align: top;}
+#faq .wrap .title h2 span{font-weight: bold;}
+
+#faq .wrap .content{text-align: left; color: #5c5c5c;}
+#faq .wrap .content .cont{padding: 20px; border: 1px solid #5e889e; border-radius: 2px; margin-bottom: 40px;}
+#faq .wrap .content .cont:last-child{margin-bottom: 80px;}
+#faq .wrap .content .cont h3{font-size: 18px; color: #5e889e; line-height: 15px; padding-bottom: 20px;}
+#faq .wrap .content .cont p{}
+
+
+

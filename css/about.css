@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+#about_cont{}
+#about_cont .wrap .title{padding-bottom: 42px; text-align: center;}
+#about_cont .wrap .title h1{font-size: 24px; font-weight: normal; color: #5c5c5c; text-transform: uppercase;}
+#about_cont .wrap .title h1 span{font-weight: bold;}
+
+
+#about_cont .wrap{width: 1200px; height: 100%; padding: 0 100px; margin: 0 auto; margin-top: -60px;}
+
+#about_cont .wrap .content{font-size: 0; margin-bottom: 45px;}
+
+#about_cont .wrap .content:nth-child(1) div{float: left;}
+#about_cont .wrap .content:nth-child(2) div{float: right; margin-bottom: 40px;}
+
+
+#about_cont .wrap .content .img_box{width: 400px; height: 285px; display: inline-block; vertical-align: top; background-position: 50% 50%; background-size: cover;}
+
+#about_cont .wrap .content .img_box{height: 282px; background-image: url(../img/sub/certificate.png);}
+#about_cont .wrap .content:nth-child(2) .img_box{background-image: url(../img/sub/plant.png);}
+
+#about_cont .wrap .content .cont_box{display: inline-block; width: 580px; font-size: 14px; padding: 0 10px; font-weight: bold;}
+
+
